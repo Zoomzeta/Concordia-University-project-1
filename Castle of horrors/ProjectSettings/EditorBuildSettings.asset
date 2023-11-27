@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 28eee19391397504aa854d8bdbd85495
+  - enabled: 1
+    path: Assets/Scenes/MapGenerator.unity
+    guid: 1ff66b1446db72549ab35ebe0a1ce58d
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: ef7382af7ef50b94b8877f60a7df4e1d
+  - enabled: 1
+    path: Assets/Scenes/Description.unity
+    guid: 4704ec93420d8774b9d5b38a88792b40
+  - enabled: 1
+    path: Assets/Scenes/Controls.unity
+    guid: 6ab4812b30b74014f8ecb075440fea34
+  - enabled: 1
+    path: Assets/Scenes/EndGame.unity
+    guid: de0a89ca4a3c0f44189e93ad5386fbab
+  m_configObjects: {}
